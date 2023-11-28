@@ -1,1 +1,1 @@
-# 28
+# This empowers women to take control of their menstrual cycles by providing tailored diet and exercise plans aligned with each phase of the cycle. This comprehensive web application utilizes data-driven insights to optimize nutrition and physical activity, fostering a holistic approach to menstrual health. With personalized recommendations and educational resources, 28 empowers women to experience greater balance, energy, and well-being throughout their cycles.
